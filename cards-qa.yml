@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Dohn Joe - QA"
+    email: "dohn@eazybank.com"
+  onCallSupport:
+    - (555) 555-9876
+    - (555) 523-9876

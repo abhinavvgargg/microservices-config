@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "No one - Prod"
+    email: "none@eazybank.com"
+  onCallSupport:
+    - (555) 555-6566
+    - (555) 523-6566
